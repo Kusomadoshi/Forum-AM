@@ -1,0 +1,15 @@
+A faire d'ici la deadline
+
+- Modification CSV pour les test
+- Programme lecture CSV
+- Programme adaptation input
+- Programme affichage carte + tag
+- Programme traitement superposition
+- Améliorer la lisibilité du programme
+
+
+Traitement manuel :
+- DL des logo
+- Rename des logo
+- Dimensions des logo sur le csv
+- Modification des descriptions sur CSV
